@@ -6,10 +6,11 @@ h1 {
     margin-top: 25px;
     margin-bottom: 30px;
 }
-p {
-    margin-left: 50px;
-    margin-top: 25px;
-    margin-bottom: 30px;
+
+.container {
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 0 20px; /* Add some padding on the left and right sides */
 }
 
 .header {
@@ -24,39 +25,29 @@ p {
 .introTitle{
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50px;
-    margin-top: 25px;
-    margin-bottom: 30px;
+    width: 75%;
 }
 
 .designArchTitle {
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50px;
-    margin-top: 25px;
-    margin-bottom: 30px;
+    width: 75%;
 }
 
 .uiTitle {
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50px;
-    margin-top: 25px;
-    margin-bottom: 30px;
+    width: 75%;
 }
 
 .funTitle {
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50px;
-    margin-top: 25px;
-    margin-bottom: 30px;
+    width: 75%;
 }
 
 .conTitle {
     border-bottom: 1px solid black;
-    display: inline-block;
-    margin-left: 50px;
-    margin-top: 25px;
-    margin-bottom: 30px; 
+    display: inline-block; 
+    width: 75%;
 }
