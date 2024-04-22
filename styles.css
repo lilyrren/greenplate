@@ -1,5 +1,9 @@
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
-    color:gray;
+    font-size: x-large;
+}
+
+.header {
+    border-bottom: 1px solid black;
+    display: inline-block;
 }
