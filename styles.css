@@ -13,10 +13,10 @@ p {
     margin-top: 15px;
 }
 
-.container {
-    margin: 0 auto; /* Center the container horizontally */
-    padding: 0 20px; /* Add some padding on the left and right sides */
-}
+/* .container { */
+   /* margin: 0 auto; /* Center the container horizontally */
+    /*padding: 0 20px; /* Add some padding on the left and right sides */
+/*} */
 
 .welcome {
     margin-left: 50px;
