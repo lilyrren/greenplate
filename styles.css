@@ -3,10 +3,14 @@ h1 {
     font-size: 50px;
     margin-left: 50%;
     margin-right: 50%;
+    margin-top: 25px;
+    margin-bottom: 30px;
 }
 p {
     margin-left: 50%;
     margin-right: 50%;
+    margin-top: 25px;
+    margin-bottom: 30px;
 }
 
 .header {
@@ -15,6 +19,8 @@ p {
     width: 75%;
     margin-left: 50%;
     margin-right: 50%;
+    margin-top: 25px;
+    margin-bottom: 30px;
 }
 
 .introTitle{
@@ -22,6 +28,8 @@ p {
     display: inline-block;
     margin-left: 50%;
     margin-right: 50%;
+    margin-top: 25px;
+    margin-bottom: 30px;
 }
 
 .designArchTitle {
@@ -29,4 +37,25 @@ p {
     display: inline-block;
     margin-left: 50%;
     margin-right: 50%;
+    margin-top: 25px;
+    margin-bottom: 30px;
 }
+
+.uiTitle {
+    border-bottom: 1px solid black;
+    display: inline-block;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.funTitle {
+    border-bottom: 1px solid black;
+    display: inline-block;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
