@@ -57,3 +57,10 @@ p {
     display: inline-block; 
     width: 75%;
 }
+
+img {
+    max-width: 100%; /* Ensure images don't exceed their container's width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure images are displayed as block elements */
+    margin: 0 auto; /* Center the images horizontally within their container */
+}
