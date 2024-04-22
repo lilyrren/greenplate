@@ -7,7 +7,7 @@ h1 {
     margin-bottom: 30px;
 }
 p {
-    margin-left: 50%;
+    margin-left: 50px;
     margin-top: 25px;
     margin-bottom: 30px;
 }
@@ -16,7 +16,7 @@ p {
     border-bottom: 1px solid black;
     display: inline-block;
     width: 75%;
-    margin-left: 50%;
+    margin-left: 50px;
     margin-top: 25px;
     margin-bottom: 30px;
 }
@@ -24,7 +24,7 @@ p {
 .introTitle{
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50%;
+    margin-left: 50px;
     margin-top: 25px;
     margin-bottom: 30px;
 }
@@ -32,7 +32,7 @@ p {
 .designArchTitle {
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50%;
+    margin-left: 50px;
     margin-top: 25px;
     margin-bottom: 30px;
 }
@@ -40,7 +40,7 @@ p {
 .uiTitle {
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50%;
+    margin-left: 50px;
     margin-top: 25px;
     margin-bottom: 30px;
 }
@@ -48,8 +48,15 @@ p {
 .funTitle {
     border-bottom: 1px solid black;
     display: inline-block;
-    margin-left: 50%;
+    margin-left: 50px;
     margin-top: 25px;
     margin-bottom: 30px;
 }
 
+.conTitle {
+    border-bottom: 1px solid black;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 30px; 
+}
