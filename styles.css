@@ -10,10 +10,11 @@ h1 {
 p {
     font-size: 25px;
     margin-bottom: 10px;
+    margin-top: 15px;
 }
 
 .container {
-    max-width: 800px; /* Adjust the maximum width as needed */
+    max-width: 1000px; /* Adjust the maximum width as needed */
     margin: 0 auto; /* Center the container horizontally */
     padding: 0 20px; /* Add some padding on the left and right sides */
 }
