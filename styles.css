@@ -18,6 +18,13 @@ p {
     padding: 0 20px; /* Add some padding on the left and right sides */
 }
 
+.welcome {
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    width: 75%;
+}
+
 .header {
     border-bottom: 1px solid black;
     display: inline-block;
@@ -26,13 +33,6 @@ p {
     margin-top: 25px;
     margin-bottom: 30px;
 }
-
-.welcome {
-    margin-left: 50px;
-    margin-top: 25px;
-    margin-bottom: 30px;
-}
-
 
 .designArchTitle {
     border-bottom: 1px solid black;
