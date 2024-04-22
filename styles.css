@@ -1,17 +1,29 @@
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
-    margin: 100px;
+    margin: 75px;
+}
+p {
+    margin: 75px;
 }
 
 .header {
     border-bottom: 1px solid black;
     display: inline-block;
-    width: 100%;
+    width: 75%;
+    margin: 75px;
 }
 
 .introhead {
     border-bottom: 1px solid black;
     display: inline-block;
-    width: 100%;
+    width: 75%;
+    margin: 75px;
+}
+
+.designArchHead {
+    border-bottom: 1px solid black;
+    display: inline-block;
+    width: 75%;
+    margin: 75px;
 }
