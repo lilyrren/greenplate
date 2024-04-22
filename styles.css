@@ -14,7 +14,6 @@ p {
 }
 
 .container {
-    max-width: 1000px; /* Adjust the maximum width as needed */
     margin: 0 auto; /* Center the container horizontally */
     padding: 0 20px; /* Add some padding on the left and right sides */
 }
@@ -28,11 +27,12 @@ p {
     margin-bottom: 30px;
 }
 
-.introTitle{
-    border-bottom: 1px solid black;
-    display: inline-block;
-    width: 75%;
+.welcome {
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 30px;
 }
+
 
 .designArchTitle {
     border-bottom: 1px solid black;
